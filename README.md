@@ -65,7 +65,7 @@ This assignment consists of the following three technical analysis deliverables:
 
 ## Summary
 
-Here are the overall results of the original and three optimization versions of the deep learning model:
+The overall results of the original and three optimization versions of the deep learning model did not reach the target model peformance of 75% accuracy. Here are the details:
 
 - 0. Original model: 0.7254 (72.54%) accuracy
 ![orig attempt](Resources/model_attempt_results_orig.png)
@@ -79,6 +79,6 @@ Here are the overall results of the original and three optimization versions of 
 - 3. Dropping the ASK_AMT column: 0.7208 (72.08%) accuracy
 ![3rd attempt](Resources/model_attempt_results_3.png)
 
-It is clear that none of the model versions reached the target model peformance of 75%. It's recommended that more drastic variations be explored, such as bigger variations in the number of layers, neurons and activation functions.
+It's recommended that more drastic variations be explored, such as bigger variations in the number of layers, neurons and activation functions, to reach the 75% threshold.
 
 
