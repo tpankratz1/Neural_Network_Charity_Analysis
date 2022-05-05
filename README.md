@@ -46,7 +46,7 @@ This assignment consists of the following three technical analysis deliverables:
 
 - Was target model performance achieved?
 
-    The target model performance was not achieved. The accuracy was 0.7254.
+    The target model performance was not achieved. The accuracy was 0.7254 (72.54%).
 
     ![Original attempt](Resources/model_attempt_results_orig.png)
 
