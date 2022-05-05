@@ -2,7 +2,7 @@
 
 ## Overview
 
-There was a need to create a binary classifier that is capable of predicting whether applicants will be successful if funded by a company, Alphabet Soup.
+There was a need to create a binary classifier that is capable of predicting whether applicants will be successful if funded by Alphabet Soup.
 
 A CSV was received from Alphabet Soup's business team, containing more than 34,000 organizations that have received funding from Alphabet Soup over the years. Within this dataset are a number of columns that capture metadata about each organization.
 
